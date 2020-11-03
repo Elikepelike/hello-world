@@ -1,2 +1,3 @@
 # hello-world
-Effen samlade
+Effen är samlade.
+Jag heter Elikepelike och är en riktig newb
